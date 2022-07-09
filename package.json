@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Automatización BP",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "keywords": [
+    "BP",
+    "Automation",
+    "WEB"
+  ],
+  "author": "Gerardo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gerardo0105/Banco-Popular.git"
+  }
+
+}
